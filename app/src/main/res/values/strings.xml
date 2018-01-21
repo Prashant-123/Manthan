@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Manthan</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="abt_verve">VERVE, the Street play society of SSCBS, was established in 2006. It is a group of highly enthusiastic, high spirited, social artists, who are driven by the desire to uplift and revolutionise the society, spread knowledge and create awareness about the evils and ailments present in the society. It adopted Nukkad or Street Play as the channel to communicate with masses, helping in delivering ideas in very simple and lucid way.</string>
+    <string name="MLP_Application">https://docs.google.com/forms/d/e/1FAIpQLScU-1RQ-CHOs2M8KpYOwH7Amb11tWJ4CLhKCRig_HppjZvWVQ/viewform</string>
+    <string name="abt_manthan">Manthan - India’s Largest Street Play Festival, is the annual flagship event of VERVE. Manthan is non-profit and non-competitive street play event, which seeks to promote and reestablish street play as a platform to bring about a positive change in the society. Began in 2007, Manthan 2018 is the eleventh edition of this pan-India event celebrating nukkad.
+Teams across India are invited to perform street plays in front of a live audience on a topic of their choice. These performances are conducted at suitable public locations, supported by marketing and promotion of the performance. At the end of each performance, an audience interaction session is held to ensure that the underlying message of the act is well received by the viewers.
+</string>
+    <string name="Proposal_Link">https://raw.githubusercontent.com/Prashant-123/Stuff/master/MLP%20Proposal\'18.pdf</string>
+    <string name="Team_application">https://docs.google.com/forms/d/e/1FAIpQLSd5VTQIY-LAw14P4hjfVzYav2fUiYuLrx5UpUVqAI87xFAZoQ/viewform</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

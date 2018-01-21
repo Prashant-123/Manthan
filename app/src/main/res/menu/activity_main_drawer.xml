@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/abt_manthan"
+            android:icon="@drawable/ic_college"
+            android:title="About MANTHAN" />
+        <item
+            android:id="@+id/abt_verve"
+            android:icon="@drawable/college"
+            android:title="About VERVE" />
+        <item
+            android:id="@+id/gallery"
+            android:icon="@drawable/ic_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/achievements"
+            android:icon="@drawable/trophy"
+            android:title="Our Achievements" />
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/ic_correction"
+            android:title="Contact-Us" />
+    </group>
+
+</menu>
